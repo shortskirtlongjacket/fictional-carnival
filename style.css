@@ -2,3 +2,15 @@ body {
   background: gray;
   color: red;
 }
+
+header {
+  height: 20vh;
+}
+
+main {
+  height: 80vh;
+}
+
+footer {
+  height:20vh;
+}
