@@ -1,6 +1,9 @@
 body {
-  background: gray;
-  color: red;
+    background: #F5F5DC;
+    color: #1E90FF;
+    width: 95%;
+    max-width: 960px;
+    margin: 0 auto;
 }
 
 header {
